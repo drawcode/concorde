@@ -155,7 +155,7 @@
 
     <div id="footer">
       <div class="container">
-        <p class="muted credit">{block name=footercontent}CRM CRM Manager - Developed at Drawbackwards{/block}</p>
+        <p class="muted credit">{block name=footercontent}CRM CRM Manager{/block}</p>
       </div>
     </div>
 {literal}
@@ -166,7 +166,7 @@
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   
-    ga('create', 'UA-39816938-1', 'crm.crm.drawcode.com');
+    ga('create', 'UA-555555555-1', 'example.com');
     ga('send', 'pageview');
   -->
   </script>
